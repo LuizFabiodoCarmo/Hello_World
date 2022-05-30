@@ -1,0 +1,5 @@
+package com.generation.vrolopessoal.repository;
+
+public interface PostagemRepository {
+
+}
